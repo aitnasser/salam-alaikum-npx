@@ -1,0 +1,28 @@
+{
+  "name": "salam-alaikum-npx",
+  "version": "1.0.0",
+  "description": "npx package that say 'Salam Alaikum'  in multiple languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitnasser/salam-alaikum-npx.git"
+  },
+  "keywords": [
+    "npx",
+    "npm",
+    "salam-alaikum",
+    "السلام عليكم"
+  ],
+  "author": "aitnasser <aitnasser@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aitnasser/salam-alaikum-npx/issues"
+  },
+  "homepage": "https://github.com/aitnasser/salam-alaikum-npx#readme",
+  "dependencies": {
+    "cfonts": "^2.8.5"
+  }
+}
