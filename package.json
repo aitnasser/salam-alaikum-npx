@@ -1,6 +1,6 @@
 {
   "name": "@aitnasser/salam-alaikum-npx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npx package that say 'Salam Alaikum'  in multiple languages",
   "main": "index.js",
   
